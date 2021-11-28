@@ -7,3 +7,6 @@ Mocha
 George The Frog
 Wyatt
 picko
+lucifer
+sar sefid
+chanarash
