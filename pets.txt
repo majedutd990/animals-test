@@ -7,3 +7,5 @@ Mocha
 George The Frog
 Wyatt
 lucifer
+sar sefid
+chanarash
